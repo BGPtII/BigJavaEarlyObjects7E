@@ -1,0 +1,18 @@
+T
+Which Java reserved word is used to declare a subclass?
+extends
+
+S
+What is the original name of the Java language?
+- *7
++ C--
+- Oak
+- Gosling
+
+M
+Which of the following are checked exceptions in Java?
++ IOException
++ IOException
+- NullPointerException
+- ArrayIndexOutOfBoundsException
+- GeneralCheckedException

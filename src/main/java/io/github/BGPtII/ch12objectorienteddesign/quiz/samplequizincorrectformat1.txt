@@ -1,0 +1,20 @@
+T
+Which Java reserved word is used to declare a subclass?
+extends
+
+S
+What is the original name of the Java language?
+- *7
+- C--
++ Oak
+- Gosling
+
+M
+Which of the following types are supertypes of Rectangle?
+- PrintStream
++ Shape
++ RectangularShape
++ Object
+- String
+wrong_format
+wrong_format_2

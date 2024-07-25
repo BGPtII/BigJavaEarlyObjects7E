@@ -1,0 +1,91 @@
+T
+Which Java reserved word is used to declare a subclass?
+extends
+
+S
+What is the original name of the Java language?
+- *7
+- C--
++ Oak
+- Gosling
+
+M
+Which of the following types are supertypes of Rectangle?
+- PrintStream
++ Shape
++ RectangularShape
++ Object
+- String
+
+N
+What is the square root of 2?
+1.41421356
+
+S
+Which of the following is not a Java primitive data passengerSeatType?
+- int
+- boolean
++ String
+- char
+
+T
+What keyword is used in Java to define a class?
+class
+
+M
+Which of the following methods are found in the Object class?
++ toString
++ equals
+- substring
++ hashCode
+- parseInt
+
+N
+What is the value of Pi (π) to 5 decimal places?
+3.14159
+
+T
+Which Java keyword is used to inherit the properties of a class?
+extends
+
+S
+Which of the following is considered an access modifier in Java?
+- key
+- class
++ private
+- package
+
+M
+Which of the following are valid Java loop structures?
++ for
++ while
++ do-while
+- foreach
+- loop
+
+N
+What is 10 to the power of 3?
+1000
+
+T
+What is the default value of a boolean variable in Java?
+false
+
+M
+Which of the following are valid variable names in Java?
+- 1variable
++ variable1
++ _variable
+- variable-1
+
+M
+Which of the following are checked exceptions in Java?
++ IOException
++ SQLException
+- NullPointerException
+- ArrayIndexOutOfBoundsException
++ ClassNotFoundException
+
+N
+What is the cube root of 27?
+3
